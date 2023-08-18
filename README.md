@@ -1,1 +1,1 @@
-# extract_details_from_invoice_using_Google-palm2
+# Extract_Details_From_Invoice_Using_Google-Palm2
